@@ -1,0 +1,24 @@
+
+.wrapper {
+    width: 960px;
+}
+
+.wrapper_main {
+    width: 900px;
+}
+
+/*Header*/
+
+
+
+/*Main*/
+
+/*Footer*/
+
+/*Helpers*/
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
